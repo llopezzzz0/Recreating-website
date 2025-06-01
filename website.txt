@@ -1,0 +1,25 @@
+Project Name:
+Frameworks & Intro to JS Project / Recreate Your Favorite Website Using Bootstrap and Javascript
+Description:
+This is a recreation of the Dolls Kill website which has a edgy yet girlie look that is consistent throughout the whole website, I really like it mainly beacuse of how original they're website is for example they have an amazing hero section with a video playing as the imagery.
+Website Feautures:
+- A reponsive navbar with bootstrap components to create a navbar toggler thats always appearent with 3 links , the background color is black with the text being white colored.
+- A homepage with a huge hero section with an image to emulate the dolls kill vibe and a heading.
+- A contact form section with two input types one being name and the other email with bootstrap components I was able to make a button match the theme.
+- A table with information about restocking items with bootstrap I made the table stripped and hoverable and centered.
+- Cards components to display the products using bootstrap to  make all three columns stand side by side in median and larger screens.
+- A carousel with the hero image since dolls kill has such an edgy yet girlie feel about it for the hero image of my website I also wanted to included a darker image as well.
+- An accordions for questions since the website has to do with clothing I thought theyre should be a section for those who have questions as they're shopping.
+How to use:
+1. Open the 'website.html' file in your browser to view the homepage.
+2. To edit site, open files in your code editor (HTML, CSS, JS).
+3. Deploy the site using platforms like Github Pages, Netlify, and others.
+Technologies Used:
+-HTML5
+-Bootstrap
+Author:
+Lisa Lopez Mata
+Email: llopezzzz0210@gmail.com
+Location: Albany, New York
+License:
+This project is open for community collaboration. Please credit the author when using any part of the content.
