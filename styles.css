@@ -1,0 +1,44 @@
+.navbar-brand{
+    font-family:'Georgia',serif;
+    font-size: 24px;
+}
+.navbar-toggler {
+    border:white;
+    padding: 8px 10px;
+    border-radius: 5px;
+}
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+.navbar-Menu {
+    color: white;
+    border-radius: white;
+}.badge-link {
+    text-decoration: none;
+ }
+ .hero-title {
+    font-size:60px;
+    font-family:'Georgia',serif;
+    margin-bottom:15px;
+ }
+ .hero-subtitle {
+    font-size: 30px;
+    font-family:'Georgia',serif;
+ }
+ h2 {
+    color:black;
+    margin-bottom: 15px;
+ }
+ .signup-form input {
+    margin-bottom: 20px;
+    padding:10px;
+    font-size: 15px;
+ }
+ h3, h4 {
+    color:hotpink;
+ }
+ .search-container {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-right: 70px;
+ }
